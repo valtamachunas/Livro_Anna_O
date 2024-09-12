@@ -13,8 +13,8 @@ html {
 
 .container {
     position: relative;
-    margin: 50px;
-    padding: 20px;
+    margin: 2%;
+    padding: 3%;
     background-color: #fff;
     border-radius: 20px;
 }
@@ -25,7 +25,7 @@ html {
 }
 
 .main-title {
-    font-size: 40px;
+    font-size: 160%;
 }
 
 .main-text {
@@ -35,8 +35,8 @@ html {
 
 /* imagem principal */
 .img {
-    width: 800px;
-    margin-top: 20px;
+    width: 60%;
+    margin-top: 3%;
 }
 
 .img-central {
@@ -44,19 +44,19 @@ html {
 }
 
 .principal-text {
-    padding: 25px 0;
-    margin: 25px 0;
+    padding: 2% 0;
+    margin: 2% 0;
     border-top: 2px dashed rgb(114, 133, 255);
     border-bottom: 2px dashed rgb(114, 133, 255);
 }
 
 .quotes-container {
     background-color: rgb(213, 234, 255);
-    padding: 30px;
+    padding: 2%;
 }
 
 .quotes-container blockquote {
-    font-size: 30px;
+    font-size: 200%;
     font-weight: bold;
 }
 
